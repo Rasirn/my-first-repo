@@ -1,2 +1,2 @@
 This is my first Github file.
-hello from main branch
+hello from both branch
